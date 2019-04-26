@@ -7,7 +7,7 @@ Kubernetes: 1.13.4
 
 ## Ingress-nginx structure
 
-![structure]()
+![structure](https://github.com/yudong2015/ingress-nginx-demo/blob/master/ingress-nginx.png)
 
 
 ## Usage 
